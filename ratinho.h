@@ -9,6 +9,6 @@ struct ratinho {
 int localizaRatinho(){
     if(mapa[x][y] == 'P'){
         ratinho.posX = x;
-        ratinho.pozY = y;
+        ratinho.posY = y;
     }
 }
