@@ -7,3 +7,5 @@ Amanda Velloso - RA 21395947
 Matheus Boaventura Prieto - RA 21464773
 
 João Vitor Ramos - RA 21346436
+
+Agatha Gonçalves da Silva - RA 21440020
